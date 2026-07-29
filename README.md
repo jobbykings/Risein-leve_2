@@ -5,7 +5,7 @@ A production-grade, full-stack Stellar Testnet dApp utilizing decentralized WebA
 ---
 
 ## 🚀 Live Implementation Profiles
-- **Developer Profile:** [jobbykings](https://github.com/jobbykings)
+- **Developer Profile:** Daniel Job Gonsum ([@jobbykings](https://github.com/jobbykings))
 - **Repository Track:** `stellar-yellow-belt-poll`
 - **Target Network Environment:** Stellar Testnet
 
